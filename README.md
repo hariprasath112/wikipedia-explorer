@@ -7,7 +7,7 @@ wikipedia, random. wikipedia is the primary library that enables the scraping of
 the need-to-know complex scraping programs. This open-source library reduces lines of code and complexity of the
 program.
 
-Why wikipedia library?
+Why wikipedia library?:
 Though the web scraping is rawer version of what is expected of a Wikipedia explorer, this library makes it more
 functional and more usable. This library works in a similar way to web scraping, but the functionalities available in
 this program will be seriously limited or require insane number of codes to perform same function. For example, it
